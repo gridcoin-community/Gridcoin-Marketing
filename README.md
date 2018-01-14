@@ -1,8 +1,10 @@
 # Gridcoin-Marketing
 A repository for storage of all Marketing &amp; Branding assets
 
-* <b>[Gridcoin_HiRes_PNGs](https://github.com/gridcoin-community/Gridcoin-Marketing/tree/master/Gridcoin_HiRes_PNGs)</b> - contains the full <b>raster</b> collection of Gridcoin logo variants as <b>high-res transparent PNGs</b>.
+* <b>Gridcoin Logos</b> - contains the full vector collection of Gridcoin logo variants in EPS format and as high-res PNGs</b>.
 
-* <b>[Gridcoin_EPS](https://github.com/gridcoin-community/Gridcoin-Marketing/tree/master/Gridcoin_EPS)</b> - contains the full <b>vector</b> collection of Gridcoin logo variants.
+* <b>Gridcoin Colour Palette</b> - contains a colour guide to use when creating Gridcoin-related artwork.
 
-* <b>[Gridcoin_Posters](https://github.com/gridcoin-community/Gridcoin-Marketing/tree/master/Gridcoin_Posters)</b> - contains posters suitable for printing commercially or on your home printer.
+* <b>Gridcoin Posters</b> - contains posters suitable for printing commercially or on your home printer.
+
+* <b>Gridcoin Fonts</b> - contains the font collection used in Gridcoin assets; Source Sans Pro.
