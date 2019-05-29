@@ -8,3 +8,5 @@ A repository for storage of all Marketing &amp; Branding assets
 * <b>Gridcoin Posters</b> - contains posters suitable for printing commercially or on your home printer.
 
 * <b>Gridcoin Fonts</b> - contains the font collection used in Gridcoin assets; Source Sans Pro.
+
+* <b>Gridcoin Headers</b> - contains headers anyone can use for social media posts.
